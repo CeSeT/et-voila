@@ -1,1 +1,1 @@
-yakin
+PASSWORD:hocamtomrukcikti
